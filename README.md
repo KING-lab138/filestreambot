@@ -65,7 +65,7 @@
 
 Press the below button to  deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy/](https://github.com/KING-lab138/filestreambot))
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy?template=https://github.com/KING-lab138/filestreambot)
   
   Press the below button to  deploy on Railway 
   
